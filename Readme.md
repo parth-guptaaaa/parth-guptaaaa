@@ -34,7 +34,7 @@
 - ⚽: I follow european football a lot.
 
 - :mailbox:How to reach me: 📧 <a href = "mailto: parthgupta096@gmail.com">Email</a>
-- 📄 - https://parth-guptaaaa.github.io/parth-guptaaaa.io/
+- 📄 - <a href = "https://parth-guptaaaa.github.io/parth-guptaaaa.io/">Personal Website</a>
 
 ---
 
